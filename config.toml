@@ -1,7 +1,7 @@
 description = "Some sample site"
 
 # The URL the site will be built for
-base_url = "https://mryashbhardwa.github.io"
+base_url = "https://mryashbhardwaj.github.io"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
